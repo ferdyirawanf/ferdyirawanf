@@ -11,9 +11,9 @@ Python, C, C++, C#, Java, MariaDB, MySQL, Git, Docker, HTML, CSS, Javascript
 <p align="center">
 <a href="https://github.com/ferdyirawanf">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ferdyirawanf&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ferdyirawanf&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdyirawanf&layout=compact&&langs_count=8count-private=true&theme=tokyonight"/>
 </a> 
-</p> 
+</p>
 
 <h2> :two_men_holding_hands: Another Side of Me: </h2>
 <div align="center">
